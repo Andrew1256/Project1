@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        .center {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            font-size: 2em;
+            color: red; 
+        }
+    </style>
+</head>
+<body>
+    <div class="center">
+        Hello World!
+    </div>
+</body>
+</html>
